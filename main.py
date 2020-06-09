@@ -22,6 +22,9 @@ def enumHandler(hwnd, lParam):
 
 win32gui.EnumWindows(enumHandler, None)
 
+# opens keystrokes (first launch right click on white window to open editor and select the .xml config file)
+os.popen(r'programs\Keystrokes.exe')
+
 
 
 
