@@ -24,7 +24,7 @@ foregroundOpacity: 1.0
 backgroundOpacity: 0.6
 
 # Position
-position: [x=1807,y=156]
+position: [x=1790,y=246]
 
 # Command keys
 keyResetStats: [keycode=25,ctrl=true,alt=false]

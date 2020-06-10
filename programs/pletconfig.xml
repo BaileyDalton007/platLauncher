@@ -23,32 +23,32 @@
   </text>
   <size>
     <Size>
-      <Width>40</Width>
-      <Height>40</Height>
+      <Width>39</Width>
+      <Height>39</Height>
     </Size>
     <Size>
-      <Width>40</Width>
-      <Height>40</Height>
+      <Width>39</Width>
+      <Height>39</Height>
     </Size>
     <Size>
-      <Width>40</Width>
-      <Height>40</Height>
+      <Width>39</Width>
+      <Height>39</Height>
     </Size>
     <Size>
-      <Width>40</Width>
-      <Height>40</Height>
+      <Width>39</Width>
+      <Height>39</Height>
     </Size>
     <Size>
-      <Width>128</Width>
-      <Height>28</Height>
+      <Width>127</Width>
+      <Height>30</Height>
     </Size>
   </size>
   <bSize>
-    <int>1</int>
-    <int>1</int>
-    <int>1</int>
-    <int>1</int>
-    <int>1</int>
+    <int>2</int>
+    <int>2</int>
+    <int>2</int>
+    <int>2</int>
+    <int>2</int>
   </bSize>
   <loc>
     <Point>
@@ -68,58 +68,58 @@
       <Y>16</Y>
     </Point>
     <Point>
-      <X>56</X>
-      <Y>103</Y>
+      <X>55</X>
+      <Y>166</Y>
     </Point>
   </loc>
   <btnColor>
-    <int>-8388480</int>
-    <int>-8388480</int>
-    <int>-8388480</int>
-    <int>-8388480</int>
-    <int>-8388480</int>
+    <int>-16777216</int>
+    <int>-16777216</int>
+    <int>-16777216</int>
+    <int>-16777216</int>
+    <int>-16777216</int>
   </btnColor>
   <font>
-    <string>&lt;Font xmlns="clr-namespace:System.Drawing;assembly=System.Drawing"&gt;Microsoft Sans Serif, 11.25pt&lt;/Font&gt;</string>
-    <string>&lt;Font xmlns="clr-namespace:System.Drawing;assembly=System.Drawing"&gt;Microsoft Sans Serif, 11.25pt&lt;/Font&gt;</string>
-    <string>&lt;Font xmlns="clr-namespace:System.Drawing;assembly=System.Drawing"&gt;Microsoft Sans Serif, 11.25pt&lt;/Font&gt;</string>
-    <string>&lt;Font xmlns="clr-namespace:System.Drawing;assembly=System.Drawing"&gt;Microsoft Sans Serif, 11.25pt&lt;/Font&gt;</string>
-    <string>&lt;Font xmlns="clr-namespace:System.Drawing;assembly=System.Drawing"&gt;Microsoft Sans Serif, 9pt&lt;/Font&gt;</string>
+    <string>&lt;Font xmlns="clr-namespace:System.Drawing;assembly=System.Drawing"&gt;Orbitron, 11.249999pt, style=Bold&lt;/Font&gt;</string>
+    <string>&lt;Font xmlns="clr-namespace:System.Drawing;assembly=System.Drawing"&gt;Orbitron, 11.249999pt, style=Bold&lt;/Font&gt;</string>
+    <string>&lt;Font xmlns="clr-namespace:System.Drawing;assembly=System.Drawing"&gt;Orbitron, 11.249999pt, style=Bold&lt;/Font&gt;</string>
+    <string>&lt;Font xmlns="clr-namespace:System.Drawing;assembly=System.Drawing"&gt;Orbitron, 11.249999pt, style=Bold&lt;/Font&gt;</string>
+    <string>&lt;Font xmlns="clr-namespace:System.Drawing;assembly=System.Drawing"&gt;Orbitron, 11.249999pt, style=Bold&lt;/Font&gt;</string>
   </font>
   <hTColor>
-    <int>-1</int>
-    <int>-1</int>
-    <int>-1</int>
-    <int>-1</int>
-    <int>-1</int>
+    <int>-16777216</int>
+    <int>-16777216</int>
+    <int>-16777216</int>
+    <int>-16777216</int>
+    <int>-16777216</int>
   </hTColor>
   <hBColor>
-    <int>-32513</int>
-    <int>-32513</int>
-    <int>-32513</int>
-    <int>-32513</int>
-    <int>-32513</int>
+    <int>-3381505</int>
+    <int>-3381505</int>
+    <int>-3381505</int>
+    <int>-3381505</int>
+    <int>-3381505</int>
   </hBColor>
   <bColor>
-    <int>-8388480</int>
-    <int>-8388480</int>
-    <int>-8388480</int>
-    <int>-8388480</int>
-    <int>-8388480</int>
+    <int>-3381505</int>
+    <int>-3381505</int>
+    <int>-3381505</int>
+    <int>-3381505</int>
+    <int>-3381505</int>
   </bColor>
   <tColor>
-    <int>-1</int>
-    <int>-1</int>
-    <int>-1</int>
-    <int>-1</int>
-    <int>-1</int>
+    <int>-3381505</int>
+    <int>-3381505</int>
+    <int>-3381505</int>
+    <int>-3381505</int>
+    <int>-3381505</int>
   </tColor>
   <btnHColor>
-    <int>-32513</int>
-    <int>-32513</int>
-    <int>-32513</int>
-    <int>-32513</int>
-    <int>-32513</int>
+    <int>-65281</int>
+    <int>-65281</int>
+    <int>-65281</int>
+    <int>-65281</int>
+    <int>-65281</int>
   </btnHColor>
   <imgID>
     <int>-1</int>
@@ -143,14 +143,14 @@
     <int>1</int>
   </hSizeInc>
   <extImage />
-  <BackgroundColor>-16711936</BackgroundColor>
-  <TransperantKey>-16776961</TransperantKey>
+  <BackgroundColor>-32640</BackgroundColor>
+  <TransperantKey>-8388353</TransperantKey>
   <mainSize>
     <Width>250</Width>
     <Height>210</Height>
   </mainSize>
   <mainImgID>-1</mainImgID>
-  <drawBorder>true</drawBorder>
+  <drawBorder>false</drawBorder>
   <mainBorderColor>-16777216</mainBorderColor>
   <mainBorderSize>0</mainBorderSize>
   <stretchImage>false</stretchImage>
